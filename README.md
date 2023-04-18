@@ -13,6 +13,6 @@ i have devlope the zerodha clone landing page using html and css
 
 original website : https://zerodha.com/
 
-solution link :
+solution link : https://github.com/Vinoth30457/zerodha.git
 
-my project live link:
+my project live link: https://radiant-seahorse-6f17c7.netlify.app
